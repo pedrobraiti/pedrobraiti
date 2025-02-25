@@ -79,16 +79,6 @@ Me chamo Pedro Braiti, sou apaixonado por tecnologia e desenvolvimento de softwa
 
 ---
 
-
-
-### 📈 Contribuições
-
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-green.svg)
-
----
-
-
-
 ### 📫 Entre em contato
 
 <p align="left">
