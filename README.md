@@ -1,6 +1,6 @@
 # 👨‍💻 Pedro Braiti
 
-**`Desenvolvedor`**
+**`< Desenvolvedor fullstack >`**
 
 Me chamo Pedro Braiti, sou apaixonado por tecnologia e desenvolvimento de software. Estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de programação.
 
