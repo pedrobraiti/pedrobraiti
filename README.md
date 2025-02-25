@@ -83,7 +83,7 @@ Me chamo Pedro Braiti, sou apaixonado por tecnologia e desenvolvimento de softwa
 
 ### 📈 Contribuições
 
-![3D Contribution Calendar](https://github.com/pedrobraiti/pedrobraiti/blob/main/.github/workflows/profile-3d.yml)
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
@@ -99,3 +99,8 @@ Me chamo Pedro Braiti, sou apaixonado por tecnologia e desenvolvimento de softwa
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
+
+---
+
+<!-- Widgets do GitHub -->
+<img src="https://komarev.com/ghpvc/?username=PedroBraiti&style=flat-square&color=blue" alt="Contador de Visualizações"/>
