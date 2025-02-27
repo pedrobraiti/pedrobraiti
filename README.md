@@ -1,4 +1,4 @@
-# 👨‍💻 Pedro Braiti
+# Pedro Braiti
 
 **`< Desenvolvedor fullstack >`**
 
