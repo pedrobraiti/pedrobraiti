@@ -1,8 +1,8 @@
 # Pedro Braiti
 
-**`< Desenvolvedor fullstack >`**
+**`< fullstack developer >`**
 
-Me chamo [Pedro Braiti](https://pedrobraiti.com/), sou apaixonado por tecnologia e desenvolvimento de software. Estou constantemente buscando aprimorar minhas habilidades e conhecimentos na área de programação.
+>I'm [Pedro Braiti](https://pedrobraiti.com/), I am passionate about technology and software development. I am constantly ***seeking*** to enhance my programming skills and expand my ***knowledge*** in the field.
 
 <p align="left">
     <a href="https://github.com/PedroBraiti?tab=repositories&sort=stargazers">
