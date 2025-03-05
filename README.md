@@ -2,7 +2,7 @@
 
 **`< fullstack developer >`**
 
->I'm [Pedro Braiti](https://pedrobraiti.com/), I am passionate about technology and software development. I am constantly ***seeking*** to enhance my programming skills and expand my ***knowledge*** in the field.
+>I'm [Pedro](https://pedrobraiti.com/), I am passionate about technology and software development. I am constantly ***seeking*** to enhance my programming skills and expand my ***knowledge*** in the field.
 
 <p align="left">
     <a href="https://github.com/PedroBraiti?tab=repositories&sort=stargazers">
