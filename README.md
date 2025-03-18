@@ -55,7 +55,7 @@
 
 ---
 
-### 📫 Entre em contato
+### 📫 Links
 
 <p align="left">
   <a href="https://pedrobraiti.com" target="_blank">
