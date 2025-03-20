@@ -4,23 +4,6 @@
 
 >I'm [Pedro](https://pedrobraiti.com/), I am passionate about technology and software development. I am constantly ***seeking*** to enhance my programming skills and expand my ***knowledge*** in the field.
 
-<p align="left">
-    <a href="https://github.com/PedroBraiti?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PedroBraiti?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/PedroBraiti?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PedroBraiti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ## 🛠️ Technologies & Tools
