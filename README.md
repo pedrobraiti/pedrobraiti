@@ -4,6 +4,11 @@
 
 >I'm [Pedro](https://pedrobraiti.com/), I am passionate about technology and software development. I am constantly ***seeking*** to enhance my programming skills and expand my ***knowledge*** in the field.
 
+**Experiências profissionais:**
+• **Full-Stack Development:** JavaScript, HTML, React, Node.js
+• **Automação de dados:** Python
+• **ChatBots:** YOLO, RAG, OpenAI API, OpenAI Vision
+• **Modelagem 3D:** Blender
 ---
 
 ## 🛠️ Technologies & Tools
