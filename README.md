@@ -8,11 +8,11 @@
 > 
 >  • **Full-Stack Development:** JavaScript, HTML, React, Node.js
 > 
->  • **Automação de dados:** Python
+>  • **Automação de dados:** Python, SQL
 > 
->  • **ChatBots:** YOLO, RAG, OpenAI API, OpenAI Vision
+>  • **ChatBots:** YOLO, RAG, OpenAI API, OpenAI Vision API
 > 
->  • **Modelagem 3D:** Blender
+>  • **Modelagem 3D:** Blender, CAD
 ---
 
 ## 🛠️ Technologies & Tools
