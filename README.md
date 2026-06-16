@@ -6,13 +6,13 @@
 
 >  **Experiências profissionais:**
 > 
->  • **Full-Stack Development:** JavaScript, HTML, React, Node.js
+>  • **Chatbot de WhatsApp** para responder clientes e qualificar leads
 > 
->  • **Automação de dados:** Python, SQL
+>  • **Computer vision** para detectar painéis solares em grandes áreas e cidades
 > 
->  • **ChatBots:** YOLO, RAG, OpenAI API, OpenAI Vision API
+>  • **Plataforma de negócios fullstack** com sistema de assinatura
 > 
->  • **Modelagem 3D:** Blender, CAD
+>  • **Modelagem 3D técnica** para impressão 3D em resina
 ---
 
 ## 🛠️ Technologies & Tools
@@ -20,7 +20,7 @@
 ### 🔹 Programming Languages  
 | C | C++ | C# | Python | Java | Rust | TypeScript |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px"/> | <img src="https://cdn.simpleicons.org/rust/F74C00" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"/> |
 
 ### 🌐 Web Development  
 | HTML | CSS | JavaScript | React | Next.js | Vite | Tailwind CSS | PHP |
@@ -57,7 +57,7 @@
 ### ☁️ Cloud & Deploy  
 | AWS | Vercel | Docker | GitHub Actions |
 |:-:|:-:|:-:|:-:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="30px"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px"/> | <img src="https://cdn.simpleicons.org/vercel/888888" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="30px"/> |
 
 ### 🔌 Embedded & Compiladores  
 | Arduino | Assembly |
