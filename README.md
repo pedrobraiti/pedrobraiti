@@ -52,7 +52,7 @@
 ### 🤖 Ferramentas de IA  
 | Claude Code | OpenAI API | MCP |
 |:-:|:-:|:-:|
-| <img src="https://cdn.simpleicons.org/claude/D97757" width="30px"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="30px"/> | <img src="https://cdn.simpleicons.org/modelcontextprotocol/888888" width="30px"/> |
+| <img src="https://cdn.simpleicons.org/claude/D97757" width="30px"/> | <img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" width="30px"/> | <img src="https://cdn.simpleicons.org/modelcontextprotocol/888888" width="30px"/> |
 
 ### ☁️ Cloud & Deploy  
 | AWS | Vercel | Docker | GitHub Actions |
